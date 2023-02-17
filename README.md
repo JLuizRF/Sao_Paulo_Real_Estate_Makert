@@ -10,9 +10,9 @@ By analyzing the data, I was able to uncover several interesting insights into t
 
 If you're interested in learning more about these findings and the analysis behind them, I invite you to explore this GitHub repository. By examining the data and applying statistical analysis techniques, I hope to provide valuable insights into the São Paulo real estate market and help you make more informed decisions when investing in the market.
 
-If you want to get a quik overivew of the finds, check here my [Tableau dashboard](https://public.tableau.com/views/MostLiquidityRealEstatePropertiesforInvestimentInSoPaulo-BR/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link);
+If you want to get a quick overview of the finds, check here my [Tableau dashboard](https://public.tableau.com/views/MostLiquidityRealEstatePropertiesforInvestimentInSoPaulo-BR/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link);
 
-Or if you want to check the whole code and analysis check here the [Jupyter Notbook](https://github.com/JLuizRF/Sao_Paulo_Real_Estate_Makert/blob/main/SP_Real_Estate_Market_Analysis.ipynb). 
+Or if you want to check the whole code and analysis check here the [Jupyter Notebook](https://github.com/JLuizRF/Sao_Paulo_Real_Estate_Makert/blob/main/SP_Real_Estate_Market_Analysis.ipynb). 
 
 Happy exploring! 
 
