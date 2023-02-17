@@ -1,5 +1,4 @@
 # Sao_Paulo_Real_Estate_Makert
-Analysis of the São Paulo, BR real estate market focusing on analysing the area with more liquidity
 
 Welcome to my Python project, where I analyzed the real estate market in São Paulo, Brazil, with a focus on identifying areas with the highest liquidity. Liquidity is an essential factor for real estate investors, as it refers to how quickly a property can be sold or converted into cash. Understanding liquidity in the real estate market is crucial for investors to make informed decisions about where to invest their money.
 
